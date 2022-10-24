@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/savji/AppData/Local/Android/Sdk/platforms/android-32/data/res/drawable/progress_horizontal_holo_dark.xml" value="0.245" />
+        <entry key="..\:/Users/savji/OneDrive/Desktop/LoginScreen/app/src/main/res/drawable-hdpi/correct_option_border_bg.xml" value="0.121" />
+        <entry key="..\:/Users/savji/OneDrive/Desktop/LoginScreen/app/src/main/res/drawable-hdpi/wrong_option_border_bg.xml" value="0.169" />
+        <entry key="..\:/Users/savji/OneDrive/Desktop/LoginScreen/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/savji/OneDrive/Desktop/LoginScreen/app/src/main/res/drawable-xhdpi/buttonbackground.xml" value="0.169" />
+        <entry key="..\:/Users/savji/OneDrive/Desktop/LoginScreen/app/src/main/res/drawable-xhdpi/textviewtimebackground.xml" value="0.169" />
+        <entry key="..\:/Users/savji/OneDrive/Desktop/LoginScreen/app/src/main/res/drawable-xxhdpi/default_option_border_bg.xml" value="0.169" />
+        <entry key="..\:/Users/savji/OneDrive/Desktop/LoginScreen/app/src/main/res/drawable/background.xml" value="0.175" />
+        <entry key="..\:/Users/savji/OneDrive/Desktop/LoginScreen/app/src/main/res/drawable/circular_progress_bar.xml" value="0.169" />
+        <entry key="..\:/Users/savji/OneDrive/Desktop/LoginScreen/app/src/main/res/drawable/circular_shape.xml" value="0.169" />
+        <entry key="..\:/Users/savji/OneDrive/Desktop/LoginScreen/app/src/main/res/drawable/custom_seekbar.xml" value="0.169" />
+        <entry key="..\:/Users/savji/OneDrive/Desktop/LoginScreen/app/src/main/res/drawable/edittextviewbackground.xml" value="0.175" />
+        <entry key="..\:/Users/savji/OneDrive/Desktop/LoginScreen/app/src/main/res/drawable/ic_baseline_arrow_circle_left_24.xml" value="0.245" />
+        <entry key="..\:/Users/savji/OneDrive/Desktop/LoginScreen/app/src/main/res/drawable/ic_baseline_arrow_circle_right_24.xml" value="0.245" />
+        <entry key="..\:/Users/savji/OneDrive/Desktop/LoginScreen/app/src/main/res/drawable/ic_baseline_circle_24.xml" value="0.121" />
+        <entry key="..\:/Users/savji/OneDrive/Desktop/LoginScreen/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.2535" />
+        <entry key="..\:/Users/savji/OneDrive/Desktop/LoginScreen/app/src/main/res/drawable/ic_baseline_error_24.xml" value="0.169" />
+        <entry key="..\:/Users/savji/OneDrive/Desktop/LoginScreen/app/src/main/res/drawable/ic_baseline_lock_24.xml" value="0.2535" />
+        <entry key="..\:/Users/savji/OneDrive/Desktop/LoginScreen/app/src/main/res/drawable/ic_baseline_login_24.xml" value="0.2535" />
+        <entry key="..\:/Users/savji/OneDrive/Desktop/LoginScreen/app/src/main/res/drawable/ic_baseline_people_24.xml" value="0.1" />
+        <entry key="..\:/Users/savji/OneDrive/Desktop/LoginScreen/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.2535" />
+        <entry key="..\:/Users/savji/OneDrive/Desktop/LoginScreen/app/src/main/res/drawable/ic_baseline_phone_24.xml" value="0.175" />
+        <entry key="..\:/Users/savji/OneDrive/Desktop/LoginScreen/app/src/main/res/drawable/ic_baseline_quiz_24.xml" value="0.169" />
+        <entry key="..\:/Users/savji/OneDrive/Desktop/LoginScreen/app/src/main/res/drawable/ic_baseline_rectangle_24.xml" value="0.169" />
+        <entry key="..\:/Users/savji/OneDrive/Desktop/LoginScreen/app/src/main/res/drawable/ic_baseline_remove_red_eye_24.xml" value="0.2535" />
+        <entry key="..\:/Users/savji/OneDrive/Desktop/LoginScreen/app/src/main/res/drawable/ic_baseline_sync_24.xml" value="0.175" />
+        <entry key="..\:/Users/savji/OneDrive/Desktop/LoginScreen/app/src/main/res/drawable/ic_baseline_verified_user_24.xml" value="0.1" />
+        <entry key="..\:/Users/savji/OneDrive/Desktop/LoginScreen/app/src/main/res/drawable/ic_launcher_background.xml" value="0.175" />
+        <entry key="..\:/Users/savji/OneDrive/Desktop/LoginScreen/app/src/main/res/drawable/prevoius_next_button_backgound.xml" value="0.169" />
+        <entry key="..\:/Users/savji/OneDrive/Desktop/LoginScreen/app/src/main/res/drawable/progressbar.xml" value="0.169" />
+        <entry key="..\:/Users/savji/OneDrive/Desktop/LoginScreen/app/src/main/res/drawable/selected_option_border_bg.xml" value="0.169" />
+        <entry key="..\:/Users/savji/OneDrive/Desktop/LoginScreen/app/src/main/res/drawable/shapeemail.xml" value="0.175" />
+        <entry key="..\:/Users/savji/OneDrive/Desktop/LoginScreen/app/src/main/res/drawable/shapelogin.xml" value="0.2535" />
+        <entry key="..\:/Users/savji/OneDrive/Desktop/LoginScreen/app/src/main/res/drawable/shapesignup.xml" value="0.169" />
+        <entry key="..\:/Users/savji/OneDrive/Desktop/LoginScreen/app/src/main/res/drawable/timetextviewbackground.xml" value="0.169" />
+        <entry key="..\:/Users/savji/OneDrive/Desktop/LoginScreen/app/src/main/res/drawable/user_profile_image_background.xml" value="0.175" />
+        <entry key="..\:/Users/savji/OneDrive/Desktop/LoginScreen/app/src/main/res/font/poppins_thin.xml" value="0.28020833333333334" />
+        <entry key="..\:/Users/savji/OneDrive/Desktop/LoginScreen/app/src/main/res/layout-v26/activity_main.xml" value="0.20108695652173914" />
+        <entry key="..\:/Users/savji/OneDrive/Desktop/LoginScreen/app/src/main/res/layout/activity_after_login.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/savji/OneDrive/Desktop/LoginScreen/app/src/main/res/layout/activity_forgot.xml" value="0.25" />
+        <entry key="..\:/Users/savji/OneDrive/Desktop/LoginScreen/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/savji/OneDrive/Desktop/LoginScreen/app/src/main/res/layout/activity_quizquestion.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/savji/OneDrive/Desktop/LoginScreen/app/src/main/res/layout/activity_result.xml" value="0.25" />
+        <entry key="..\:/Users/savji/OneDrive/Desktop/LoginScreen/app/src/main/res/layout/activity_set_question.xml" value="0.25" />
+        <entry key="..\:/Users/savji/OneDrive/Desktop/LoginScreen/app/src/main/res/layout/activity_sign_up.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/savji/OneDrive/Desktop/LoginScreen/app/src/main/res/layout/activity_signup.xml" value="0.25" />
+        <entry key="..\:/Users/savji/OneDrive/Desktop/LoginScreen/app/src/main/res/layout/fragment_forgotpasswordtype.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/savji/OneDrive/Desktop/LoginScreen/app/src/main/res/layout/fragment_signup.xml" value="0.291970802919708" />
+        <entry key="..\:/Users/savji/OneDrive/Desktop/LoginScreen/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/savji/OneDrive/Desktop/LoginScreen/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1085" />
+        <entry key="..\:/Users/savji/OneDrive/Desktop/Quiz Master/app/src/main/res/drawable/ic_baseline_verified_user_24.xml" value="0.245" />
+        <entry key="..\:/Users/savji/OneDrive/Desktop/Quiz Master/app/src/main/res/drawable/ic_launcher_background.xml" value="0.121" />
+        <entry key="..\:/Users/savji/OneDrive/Desktop/Quiz Master/app/src/main/res/drawable/shapelogin.xml" value="0.169" />
+        <entry key="..\:/Users/savji/OneDrive/Desktop/Quiz Master/app/src/main/res/font/poppins_thin.xml" value="0.28020833333333334" />
+        <entry key="..\:/Users/savji/OneDrive/Desktop/Quiz Master/app/src/main/res/layout-v26/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/savji/OneDrive/Desktop/Quiz Master/app/src/main/res/layout/activity_forgot.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/savji/OneDrive/Desktop/Quiz Master/app/src/main/res/layout/activity_sign_up.xml" value="0.22826086956521738" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
