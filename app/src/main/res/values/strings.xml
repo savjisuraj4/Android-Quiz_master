@@ -28,7 +28,7 @@
     <string name="result">RESULT</string>
     <string name="correct">Correct</string>
     <string name="_0">0</string>
-    <string name="incoorect">Incoorect</string>
+    <string name="incoorect">Incorrect</string>
     <string name="not_attempted">Not Attempted</string>
     <string name="total_question">Total Question</string>
     <string name="home">HOME</string>

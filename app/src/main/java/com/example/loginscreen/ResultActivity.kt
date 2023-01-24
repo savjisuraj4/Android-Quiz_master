@@ -4,12 +4,10 @@ import android.annotation.SuppressLint
 import android.content.Intent
 import android.graphics.Color
 import android.os.Bundle
-import android.util.Log
 import android.widget.Button
 import android.widget.TextView
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
-import androidx.core.content.ContextCompat.startActivity
 import com.google.android.gms.tasks.OnCompleteListener
 import com.google.android.gms.tasks.OnFailureListener
 import com.google.android.gms.tasks.OnSuccessListener
@@ -22,7 +20,6 @@ import org.eazegraph.lib.models.PieModel
 class ResultActivity : AppCompatActivity() {
     private lateinit var pieChart: PieChart
     private lateinit var correct: TextView
-    private var name:String?=null
     private lateinit var no_question:TextView
     private lateinit var incorrect: TextView
    private lateinit var skip: TextView
@@ -92,9 +89,8 @@ class ResultActivity : AppCompatActivity() {
         try {
             firestore.collection("users").document(firebaseAuth.currentUser?.email.toString())
                     .get().addOnCompleteListener(OnCompleteListener { task ->
-                        name = task.result["name"].toString()
                         attemptedclass = attemptedclass(
-                            name!!,
+
                             firebaseAuth.currentUser?.email.toString(),
                             true,
                             correct.text.toString(),

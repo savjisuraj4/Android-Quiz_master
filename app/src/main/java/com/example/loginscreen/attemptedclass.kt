@@ -11,8 +11,7 @@ class attemptedclass {
     constructor(){
 
     }
-    constructor(name:String,email:String,attempted:Boolean,right:String,wrong:String,skip:String,total:String){
-        this.name=name
+    constructor(email:String,attempted:Boolean,right:String,wrong:String,skip:String,total:String){
         this.attempted=attempted
         this.email=email
         this.right=right
